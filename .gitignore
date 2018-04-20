@@ -4,6 +4,7 @@
 !.coveragerc
 !.gitchangelog.rc
 !.changelog.tpl
+!.circleci/
 
 __pycache__
 *.py[cod]
